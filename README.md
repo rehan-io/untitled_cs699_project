@@ -1,2 +1,3 @@
 # untitled_cs699_project
-CS 699 Project Repo
+
+This is the CS699 project repo done during the odd semester of 2026-27
